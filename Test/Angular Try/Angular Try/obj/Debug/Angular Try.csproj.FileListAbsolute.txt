@@ -1,0 +1,6 @@
+E:\Project\Test\Angular Try\Angular Try\bin\Angular Try.dll.config
+E:\Project\Test\Angular Try\Angular Try\bin\Angular Try.dll
+E:\Project\Test\Angular Try\Angular Try\bin\Angular Try.pdb
+E:\Project\Test\Angular Try\Angular Try\obj\Debug\Angular Try.csprojResolveAssemblyReference.cache
+E:\Project\Test\Angular Try\Angular Try\obj\Debug\Angular Try.dll
+E:\Project\Test\Angular Try\Angular Try\obj\Debug\Angular Try.pdb
